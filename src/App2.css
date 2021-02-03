@@ -36,6 +36,11 @@
   overflow: auto;
   height: 500px;
 }
+
+.table1{
+  padding-top: 30px;
+}
+
 .table{
   
   border-collapse: collapse;/*juntamos los border por td y la tabla en si en uno solo*/
